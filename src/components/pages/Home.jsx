@@ -1,4 +1,4 @@
-import { API_URL } from "../../constants/env";
+import { API_URL } from "../../constants/env"
 
 function Home() {
   return (
@@ -8,7 +8,7 @@ function Home() {
         <p>Este es el sitio en desarrollo.</p>
       </div>
     </>
-  );
+  )
 }
 
-export default Home;
+export default Home
